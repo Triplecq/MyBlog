@@ -1,0 +1,3 @@
+baseurl: /
+
+include: [/Users/Zhangwenduo/Github/MyBlog/_layouts/bootstrap]
